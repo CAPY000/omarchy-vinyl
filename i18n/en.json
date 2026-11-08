@@ -1,0 +1,12 @@
+{
+  "panel.nothing": "Nothing playing",
+  "panel.hint": "Start a track in any MPRIS player and it lands here.",
+  "panel.players": "Players",
+  "panel.unknownTrack": "Unknown track",
+  "panel.unknownArtist": "Unknown artist",
+  "panel.play": "Play",
+  "panel.pause": "Pause",
+  "panel.previous": "Previous",
+  "panel.next": "Next",
+  "panel.seek": "Seek"
+}

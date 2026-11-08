@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "vinyl.player",
+  "name": "Vinyl",
+  "version": "1.0.0",
+  "author": "CAPY000",
+  "license": "MIT",
+  "description": "Album art, now playing and playback controls in the Omarchy bar.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "MusicBar.qml"
+  },
+  "barWidget": {
+    "displayName": "Vinyl",
+    "description": "Album art and track title in the bar, with cover art, seek bar and transport controls in the popup.",
+    "category": "Media",
+    "allowMultiple": false,
+    "defaultSection": "centerEnd",
+    "defaults": {
+      "maxLabelWidth": 160
+    },
+    "schema": [
+      {
+        "key": "maxLabelWidth",
+        "type": "integer",
+        "label": "Label width",
+        "min": 60,
+        "max": 400,
+        "step": 10,
+        "defaultValue": 160
+      }
+    ]
+  }
+}

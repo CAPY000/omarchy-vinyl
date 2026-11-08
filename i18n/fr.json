@@ -1,0 +1,12 @@
+{
+  "panel.nothing": "Rien en lecture",
+  "panel.hint": "Lance une piste dans un lecteur MPRIS et elle apparait ici.",
+  "panel.players": "Lecteurs",
+  "panel.unknownTrack": "Piste inconnue",
+  "panel.unknownArtist": "Artiste inconnu",
+  "panel.play": "Lecture",
+  "panel.pause": "Pause",
+  "panel.previous": "Piste precedente",
+  "panel.next": "Piste suivante",
+  "panel.seek": "Position"
+}
